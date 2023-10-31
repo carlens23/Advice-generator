@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 768px) {
+    html {
+        font-size: 10px;
+    }
+
+    .advice {
+
+    }
+
+    .advice .img {
+        width: 220px;
+        height: auto;
+    }
+
+
+    footer {
+        margin-top: 20px;
+    }
+}
